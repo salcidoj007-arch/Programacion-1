@@ -23,6 +23,7 @@ DENOMINACIONES = ('A', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', '
 ###################################################################
 # LÓGICA DEL JUEGO.
 ###################################################################
+#Hace una lista de 52 tuplas y las revuelve para simular una baraja.
 def Barajar(palos, denominaciones) -> list:
     """
     Crea una baraja de 52 cartas (tuplas denominación, palo) y la revuelve.

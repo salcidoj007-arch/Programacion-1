@@ -362,6 +362,7 @@ def Todas(Dimensión:int,simbolo:str):
     Rombo(Dimensión, simbolo)
     Moño(Dimensión, simbolo)
     Copa(Dimensión, simbolo)
+    #Al final debería imprimir todas las figuras con su dimensión y símbolo respectivamente.
 ##############################################################################
 print("Algoritmo que imprime dferentes figuras con dimensiones personalizadas y con símbolos proporcionados.")
 #Se empieza un ciclo, que no acabará hasta que la "eleccion" sea 0.
