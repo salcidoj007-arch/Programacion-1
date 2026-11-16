@@ -21,3 +21,6 @@ Algoritmo que imprime dferentes figuras con dimensiones personalizadas y con sí
 
 ### BlackJackBien
 Algoritmo que simula el juego de mesa de "Blackjack"
+
+### Examen1 1
+Algoritmo que indica en qué día de la semana cayó una fecha específica.
